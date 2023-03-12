@@ -1,2 +1,2 @@
-# rsschool-cv
-rs 2023
+https://github.com/dmaberlin1/rsschool-cv/blob/gh-pages/cv.md
+
