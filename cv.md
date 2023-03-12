@@ -1,5 +1,5 @@
-1.Дмитрий Берлинский; <br>
-2.почта dmaberlin77@gmail.com ,telegram @dmaberlin1, никнейм на дискорд-сервере rs school - dmaberlin(@dmaberlin1); <br>
+# 1.Дмитрий Берлинский; <br>
+2.почта dmaberlin77@gmail.com,tg @dmaberlin1 , никнейм на дискорд-сервере rs school - dmaberlin(@dmaberlin1); <br>
 3.Краткая информация о себе - Читаю книги, веду здоровый образ жизни, интересуюсь миром высоких технологий; <br>
 4.Учу JS,React;  <br>
 5.Примеры кода : https://github.com/dmaberlin1/marvel-app] ;  <br>
